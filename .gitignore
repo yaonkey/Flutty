@@ -4,3 +4,8 @@
 venv
 __pycache__
 libs/*
+
+# now empty
+static/img
+docs/*
+core/models/*
